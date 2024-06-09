@@ -1,0 +1,6 @@
+telethon
+emoji
+numpy
+natasha
+matplotlib
+networkx
